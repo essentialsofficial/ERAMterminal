@@ -12,5 +12,7 @@ ERAMterminal is IN DEVELOPMENT, please don't use it as Operation System.
 ## Contributors
 
 Roman Zeldinov - chief developer
+<br>
 exceb - developer
+<br>
 kebab11xxl - developer
